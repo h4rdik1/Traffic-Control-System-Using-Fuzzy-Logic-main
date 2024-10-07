@@ -15,4 +15,4 @@ Run the main script using the environment intepreter
 `python main.py`
 
 # Current Progress
-![Screenshot](F:\Traffic-Control-System-Using-Fuzzy-Logic-main\Traffic-Control-System-Using-Fuzzy-Logic-main\images(results)\recording\01.gif)
+![Screenshot](https://github.com/h4rdik1/Traffic-Control-System-Using-Fuzzy-Logic-main/blob/main/Traffic-Control-System-Using-Fuzzy-Logic-main/images(results)/recording/01.gif)
